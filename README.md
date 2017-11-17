@@ -1,6 +1,6 @@
 ## npm-module-boilerplate (vue.js)
 
-Basic boilerplate project for creating and transpiling ES2015 modules that can be published to npm.
+Basic boilerplate project for creating components (Vue.js) and transpiling them to ES2015 modules that can be published to npm.
 
 To run:
 
